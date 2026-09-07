@@ -1,6 +1,6 @@
 # ReleaseRenewIP
 
-VB6 working copy of `ReleaseRenewIP` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: ReleaseRenew. Output: `ReleaseRenew.exe`. `VersionCompanyName`: Freelance.
+Freelance VB6 DHCP Test utility (`ReleaseRenew.exe`) that releases and renews DHCP leases (WMI), shows release/renew status icons, and appends results to `DHCP.log`. Open `ReleaseRenew.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
